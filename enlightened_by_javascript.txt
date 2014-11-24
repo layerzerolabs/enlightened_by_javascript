@@ -1,0 +1,56 @@
+Avalokitesvara the Origin Mistress
+when debugging deeply the Undefined Paramita
+perceives that all of the log files are empty
+and is saved from all suffering and distress.
+
+Oh Javascript Programmer,
+objects do not differ from null,
+null is merely a kind of object.
+Undefined is a function,
+and all functions are undefined.
+The same is true of strings,
+integers, arrays, truth or falsehood.
+
+Programmer,
+the features of Javascript are also its bugs;
+never released and never abandoned,
+neither supported or unsupported,
+neither maintained nor deprecated.
+Therefore, in Javascript no bugs, features,
+commits, reverts, authors.
+
+No types, no classes, no entities, no attributes,
+no private, no public, no package, no friends,
+no runtime context;
+no state or scope
+and so forth until no realm of computation.
+
+No errors and also no catching of errors,
+and so forth until no breaking or crashing
+and no end of crashing and breaking.
+
+Nothing synchronous, nor asyncronous,
+no pushing no popping, no heap no stack
+also no returning with nothing to return.
+
+The Origin Mistress accepts the Undefined Paramita
+and logic is no hindrance.
+without any logic no programs exist.
+Realising this, good code is created.
+(So good, it even runs in Internet Explorer.)
+
+In the three browsers
+all Programs depend on Undefined Parameters,
+on Max that is less than Min, and the Number that Not a Number.
+
+Therefore know that the Undefined Parameter
+is the great transcendent mantra,
+is the great bright mantra,
+is the utmost mantra,
+is the supreme mantra
+which is able to relieve all suffering
+and is truthy, insofar as it is not falsey.
+
+So proclaim the Undefined Paramita mantra,
+proclaim the mantra which says:
+Object does not support this property or method.
