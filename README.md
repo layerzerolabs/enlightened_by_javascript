@@ -1,4 +1,4 @@
-Written by the layerzerolabs pair (in their cups) and first performed at the magnificent Squatconf.
+Written by the layerzerolabs pair (in their cups) and first performed at the magnificent http://quatconf.eu
 
 Opening it up to the universe (multiverse even) for fun and no profit. I'm sure it can be improved!
 
